@@ -3,85 +3,89 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ViderLab TodoAlojamiento Form 1.0.0\n"
-"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/viderlab-todoalojamiento-form\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/viderlab-"
+"todoalojamiento-form\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2023-07-20T11:03:01+00:00\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"X-Generator: WP-CLI 2.7.1\n"
+"PO-Revision-Date: 2023-07-20 11:07+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
 "X-Domain: viderlab-todoalojamiento-form\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2"
 
 #. Plugin Name of the plugin
 msgid "ViderLab TodoAlojamiento Form"
-msgstr ""
+msgstr "ViderLab TodoAlojamiento Form"
 
 #. Plugin URI of the plugin
 msgid "https://viderlab.com/viderlab-todoalojamiento-form/"
-msgstr ""
+msgstr "https://viderlab.com/viderlab-todoalojamiento-form/"
 
 #. Description of the plugin
 msgid "Creates a simple form to begin a search on TodoAlojamiento"
-msgstr ""
+msgstr "Crea un formulario simple para iniciar una búsqueda en TodoAlojamiento"
 
 #. Author of the plugin
 msgid "ViderLab"
-msgstr ""
+msgstr "ViderLab"
 
 #. Author URI of the plugin
 msgid "http://viderlab.com/"
-msgstr ""
+msgstr "http://viderlab.com/"
 
 #: admin/class-viderlab-todoalojamiento-form-admin.php:110
 msgid "Settings"
-msgstr ""
+msgstr "Configuración"
 
 #: admin/class-viderlab-todoalojamiento-form-admin.php:119
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: admin/class-viderlab-todoalojamiento-form-admin.php:138
 msgid "Configure your TodoAlojamiento account."
-msgstr ""
+msgstr "Configura tu cuenta de TodoAlojamiento."
 
 #: admin/class-viderlab-todoalojamiento-form-admin.php:156
 msgid "https://www.todoalojamiento.com/portal/es?idHotel="
-msgstr ""
+msgstr "https://www.todoalojamiento.com/portal/es?idHotel="
 
 #: admin/class-viderlab-todoalojamiento-form-admin.php:163
 msgid "Insert your booking engine URL."
-msgstr ""
+msgstr "Insertar la UTL del motor de reservas."
 
 #: admin/class-viderlab-todoalojamiento-form-admin.php:189
 msgid "Settings Saved"
-msgstr ""
+msgstr "Configuración guardada"
 
 #: admin/class-viderlab-todoalojamiento-form-admin.php:205
 msgid "Save Settings"
-msgstr ""
+msgstr "Guardar configuración"
 
 #: public/class-viderlab-todoalojamiento-form-public.php:116
 msgid "Search"
-msgstr ""
+msgstr "Buscar"
 
 #: public/partials/viderlab-todoalojamiento-form-public-display.php:17
 msgid "https://www.todoalojamiento.com/portal/es?forzarLimpiar=true&idHotel="
-msgstr ""
+msgstr "https://www.todoalojamiento.com/portal/es?forzarLimpiar=true&idHotel="
 
 #: public/partials/viderlab-todoalojamiento-form-public-display.php:23
 msgid "Check-in"
-msgstr ""
+msgstr "Check-in"
 
 #: public/partials/viderlab-todoalojamiento-form-public-display.php:31
 msgid "Check-out"
-msgstr ""
+msgstr "Check-out"
 
 #: public/partials/viderlab-todoalojamiento-form-public-display.php:41
 msgid "Adults"
-msgstr ""
+msgstr "Adultos"
 
 #: public/partials/viderlab-todoalojamiento-form-public-display.php:59
 msgid "Children"
-msgstr ""
+msgstr "Niños"

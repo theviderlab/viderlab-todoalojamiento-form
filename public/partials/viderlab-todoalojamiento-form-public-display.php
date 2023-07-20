@@ -14,7 +14,7 @@
 ?>
 
 <div class="viderlab-todoalojamiento-form">
-    <form method="post" id="viderlab-todoalojamiento-form" action="<?php echo esc_html_e( 'https://www.todoalojamiento.com/portal/es?forzarLimpiar=true&idHotel=996', 'viderlab-todoalojamiento-form' ).$settings['viderlab-todoalojamiento-form-settings_url']; ?>">
+    <form method="post" id="viderlab-todoalojamiento-form" action="<?php echo esc_html_e( 'https://www.todoalojamiento.com/portal/es?forzarLimpiar=true&idHotel=', 'viderlab-todoalojamiento-form' ).$settings['viderlab-todoalojamiento-form-settings_url']; ?>">
         <input type="hidden" name="date_format" value="d/m/Y" />
         <div class="viderlab-search-room-form">
             <div class="viderlab-dates">
