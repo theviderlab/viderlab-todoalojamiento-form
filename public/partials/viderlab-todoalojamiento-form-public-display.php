@@ -60,6 +60,7 @@
                     </div>
                     <div class="viderlab-numberpicker">
                         <select class="number_picker" name="viderlab-children" id="viderlab-children">
+                            <option value="0">0</option>
                             <option value="1">1</option>
                             <option value="2">2</option>
                             <option value="3">3</option>
